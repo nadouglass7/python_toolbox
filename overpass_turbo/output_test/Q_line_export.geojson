@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Q_line_export",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wimbledon Place", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Menlo Loop", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Menlo Loop", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Ponderosa Court", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Lodgepole Court", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Cooks Garden Road", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Cypress Court", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Tamarack Street", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Sequoia Court", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Juniper Lane", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Cottonwood Avenue", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Sequoia Avenue", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Sequoia Avenue", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "West Centennial Boulevard", "highway": "secondary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Janus Court", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Martin Luther King Junior Boulevard", "highway": "secondary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Aspen Street", "highway": "tertiary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Oak Meadows Place", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "n\/a", "highway": "service" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Brandy Way", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "n\/a", "highway": "service" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Tamarack Street", "highway": "tertiary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Menlo Loop", "highway": "tertiary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "Anderson Lane", "highway": "residential" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "name": "West Centennial Boulevard", "highway": "secondary" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } }
+]
+}

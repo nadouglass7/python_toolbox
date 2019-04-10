@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bbox",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -123.048309769829402, 44.059213912259807 ], [ -123.041899741683579, 44.059249075486441 ], [ -123.041752947145895, 44.054994173454794 ], [ -123.048505495879667, 44.055170001908813 ], [ -123.048309769829402, 44.059213912259807 ] ] ] ] } }
+]
+}

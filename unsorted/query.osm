@@ -1,0 +1,6 @@
+data=[out:json]rel[name="Turku"];out;
+wget -O target.geojson "http://overpass-api.de/api/interpreter?data=[out:json]rel[name=\"Turku\"];out;"
+
+wget -O target.osm "http://overpass-api.de/api/interpreter?data=node[name=\"Gielgen\"];out;"
+
+wget "http://overpass-api.de/api/interpreter?data=[out:json]node[name=\"Gielgen\"];out;"

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.54.13 ff15392f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-02-28T20:10:03Z"/>
+
+  <node id="371597317" lat="50.7412721" lon="7.1927120">
+    <tag k="is_in" v="Bonn,Regierungsbezirk Köln,Nordrhein-Westfalen,Bundesrepublik Deutschland,Europe"/>
+    <tag k="name" v="Gielgen"/>
+    <tag k="place" v="suburb"/>
+  </node>
+  <node id="373373733" lat="50.7290803" lon="7.2176116">
+    <tag k="name" v="Gielgen"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="507464865" lat="50.7399380" lon="7.1959822">
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="VRS:ortsteil" v="Hoholz"/>
+    <tag k="VRS:ref" v="68566"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gielgen"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1633594723" lat="50.7393948" lon="7.1960210">
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="VRS:ortsteil" v="Hoholz"/>
+    <tag k="VRS:ref" v="68566"/>
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Gielgen"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+
+</osm>

@@ -1,0 +1,4 @@
+Random python/ map ideas:
+
+- Script that runs through a series of phrases and determines if they are positively or negatively 
+	- Would have to learn using test phrases. Learning algorithm. Hmmmm sounds tough

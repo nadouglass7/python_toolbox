@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.54.13 ff15392f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-02-28T20:16:02Z"/>
+
+  <relation id="399906">
+    <member type="way" ref="178230304" role="outer"/>
+    <member type="way" ref="178363958" role="outer"/>
+    <member type="way" ref="178363947" role="outer"/>
+    <member type="way" ref="178364006" role="outer"/>
+    <member type="way" ref="178363974" role="outer"/>
+    <member type="way" ref="178363984" role="outer"/>
+    <member type="way" ref="178364004" role="outer"/>
+    <member type="way" ref="178363980" role="outer"/>
+    <member type="way" ref="265828248" role="outer"/>
+    <member type="way" ref="186323805" role="outer"/>
+    <member type="way" ref="186323818" role="outer"/>
+    <member type="way" ref="186323816" role="outer"/>
+    <member type="way" ref="186343546" role="outer"/>
+    <member type="way" ref="178230201" role="outer"/>
+    <member type="way" ref="24643384" role="outer"/>
+    <member type="way" ref="178230261" role="outer"/>
+    <member type="way" ref="178230307" role="outer"/>
+    <member type="way" ref="178230161" role="outer"/>
+    <member type="node" ref="21847490" role="label"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Turku"/>
+    <tag k="name:et" v="Turu"/>
+    <tag k="name:fi" v="Turku"/>
+    <tag k="name:lt" v="Turku"/>
+    <tag k="name:ru" v="Турку"/>
+    <tag k="name:sv" v="Åbo"/>
+    <tag k="ref" v="853"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q38511"/>
+    <tag k="wikipedia" v="fi:Turku"/>
+  </relation>
+
+</osm>
